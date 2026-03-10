@@ -32,8 +32,6 @@ public class Method2 {
         // TODO code application logic here
         Scanner myObj = new Scanner(System.in);
         
-        int jumlah=0;
-        
         System.out.println("masukkan batas minimal: ");
         int batasMin = myObj.nextInt();
         System.out.println("masukkan batas maksimal: ");
